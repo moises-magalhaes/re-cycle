@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 75 72" style="enable-background:new 0 0 75 72;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#057250;}
+	.st2{fill:#FFFFFF;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="75" height="72"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g id="facebook" class="st0">
+		<g id="Grupo_1" transform="translate(7.447 6.271)">
+			<path id="Caminho_6" class="st1" d="M30.2,0C13.5,0.2,0.2,13.9,0.4,30.6C0.7,47,13.9,60.2,30.2,60.4c0.4,0,0.9,0,1.3,0v-22h-4.6
+				v-7.6h4.6v-4.6c0-6.2,2.6-9.9,9.9-9.9h6.1v7.6h-3.8c-2.8,0-3,1.1-3,3l0,3.8h6.9l-0.8,7.6h-6.1v20.2c15.7-5.7,23.7-23.1,18-38.7
+				C54.2,7.9,42.9,0,30.2,0L30.2,0z"/>
+			<path id="Caminho_7" class="st2" d="M41.3,16.3c-7.3,0-9.9,3.7-9.9,9.9v4.6h-4.6v7.6h4.6v22c3.1-0.1,6.2-0.7,9.1-1.8V38.3h6.1
+				l0.8-7.6h-6.9l0-3.8c0-2,0.2-3,3-3h3.8v-7.6L41.3,16.3L41.3,16.3z"/>
+		</g>
+	</g>
+</g>
+</svg>

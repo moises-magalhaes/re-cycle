@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="61"
+   height="61"
+   viewBox="0 0 61 61"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="about-us.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="687"
+     inkscape:window-height="480"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="4.2387439"
+     inkscape:cx="30.5"
+     inkscape:cy="30.5"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="about_us" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="clip-about_us">
+      <rect
+         width="61"
+         height="61"
+         id="rect2" />
+    </clipPath>
+  </defs>
+  <g
+     id="about_us"
+     data-name="about us"
+     clip-path="url(#clip-about_us)">
+    <g
+       id="Grupo_3"
+       data-name="Grupo 3"
+       transform="translate(-2091 -1274)">
+      <g
+         id="Grupo_2"
+         data-name="Grupo 2"
+         transform="translate(2087.706 1282.199)">
+        <path
+           id="ic_assignment_ind_24px"
+           d="M35.35,5.044H26.9a6.041,6.041,0,0,0-11.4,0H7.044A4.056,4.056,0,0,0,3,9.087V37.393a4.056,4.056,0,0,0,4.044,4.044H35.35a4.056,4.056,0,0,0,4.044-4.044V9.087A4.056,4.056,0,0,0,35.35,5.044Zm-14.153,0a2.022,2.022,0,1,1-2.022,2.022A2.028,2.028,0,0,1,21.2,5.044Zm0,8.087A6.066,6.066,0,1,1,15.131,19.2,6.057,6.057,0,0,1,21.2,13.131ZM33.328,37.393H9.066V34.563c0-4.044,8.087-6.268,12.131-6.268s12.131,2.224,12.131,6.268Z"
+           transform="translate(13.971 -1)"
+           fill="#057250" />
+      </g>
+    </g>
+  </g>
+</svg>

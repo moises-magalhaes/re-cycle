@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="61"
+   height="61"
+   viewBox="0 0 61 61"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="home-img.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="758"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="8.3011706"
+     inkscape:cx="30.5"
+     inkscape:cy="30.5"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="about_us"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="clip-about_us">
+      <rect
+         width="61"
+         height="61"
+         id="rect2" />
+    </clipPath>
+  </defs>
+  <g
+     id="about_us"
+     data-name="about us"
+     clip-path="url(#clip-about_us)">
+    <path
+       id="Path_1"
+       data-name="Path 1"
+       d="M 24.86091,50.855954 24.499515,35.691305 h 9.306 l 0.361395,15.164649 h 11.633 L 45.438515,31.038305 h 6.98 l -23.266,-20.939 -23.266,20.939 h 6.98 l 0.361395,19.817649 z"
+       fill="#057250"
+       sodipodi:nodetypes="cccccccccccc" />
+  </g>
+</svg>
